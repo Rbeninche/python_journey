@@ -20,4 +20,3 @@ print(result)
 
 result = lesser_of_two_evens(2, 5)
 
-print(result)
